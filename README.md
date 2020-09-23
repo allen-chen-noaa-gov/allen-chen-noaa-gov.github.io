@@ -1,4 +1,4 @@
 # allen-chen-noaa-gov.github.io
 
-![XKCD](/data/bun_2x.png)
-From XKCD, of course.
+![xkcd](/data/bun_2x.png)
+From xkcd, of course.
